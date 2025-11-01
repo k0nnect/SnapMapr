@@ -85,13 +85,13 @@ Then open your browser to the local URL (usually `http://localhost:8501`).
 
 ## 🧠 Libraries Used
 
-    |-------|------|
-| Frontend: Streamlit |
-| Mapping: Folium + Streamlit-Folium |
-| API: Snapchat Business API |
-| Auth: OAuth2 via Snapchat Developer |
-| Backend: Python 3.12 |
-| Environment: dotenv |
+|-------|------|
+| Frontend | Streamlit |
+| Mapping | Folium + Streamlit-Folium |
+| API | Snapchat Business API |
+| Auth | OAuth2 via Snapchat Developer |
+| Backend | Python 3.12 |
+| Environment | dotenv |
 
 ---
 
