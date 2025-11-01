@@ -1,0 +1,11 @@
+streamlit==1.30.0
+requests==2.31.0
+pandas==2.2.2
+folium==0.14.0
+plotly==5.21.0
+torch==2.2.1
+torchvision==0.17.1
+Pillow==10.1.0
+tqdm==4.66.1
+pytest==7.4.2
+python-dotenv==1.0.0
