@@ -1,5 +1,4 @@
 from typing import Dict, Any, Tuple, Optional
-import pytz
 import re
 
 def extract_latlon(location_field) -> Tuple[Optional[float], Optional[float]]:
